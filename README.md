@@ -34,7 +34,7 @@ Search "ESLint for VS Code" and install
 
 Search "sort-imports" and install
 
-In `Settings.json` for add:
+In `Settings.json` add:
 
 ```
 "eslint.validate": [
